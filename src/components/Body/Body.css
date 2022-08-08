@@ -1,0 +1,27 @@
+h1{
+    font-size: 4rem;
+    
+}
+
+.body1{
+ margin-left: 20%;
+
+}
+
+.container{
+    flex-wrap: wrap;
+    width: 80%;
+    font-size: large;
+    line-height: 30px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.btn:hover{
+ cursor: pointer;
+}

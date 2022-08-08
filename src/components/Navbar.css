@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.li1{
+    text-decoration: solid;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.li1:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+
+
+.parentlist{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding: 20px;
+    justify-content: space-around;
+}
